@@ -1,3 +1,3 @@
-# website-wuletaw - Bootstrap template edited
+# website-wuletaw
 
-A website to test jenkins feature to automate deployment in a local server.
+> The portfolio website of Wuletaw Wonte.
