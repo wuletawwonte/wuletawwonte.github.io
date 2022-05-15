@@ -1,0 +1,19 @@
+{
+  "name": "website-wuletaw",
+  "version": "1.0.0",
+  "description": "A website to test jenkins feature to automate deployment in a local server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuletawwonte/website-wuletaw.git"
+  },
+  "author": "Wuletaw Wonte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuletawwonte/website-wuletaw/issues"
+  },
+  "homepage": "https://github.com/wuletawwonte/website-wuletaw#readme"
+}
